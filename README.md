@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/humblepasty/HumblePasty/output/github-contribution-grid-snake-dark.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humblepasty)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblepasty&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
